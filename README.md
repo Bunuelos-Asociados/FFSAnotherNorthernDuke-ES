@@ -1,4 +1,4 @@
-# FFSAnotherNorthernDuke-_ES
+# FFSAnotherNorthernDuke_ES
 
 LINK DEL JUEGO ORIGINAL:
 https://chthonicchromestudio.itch.io/ffs-another-northern-duke-spicy
