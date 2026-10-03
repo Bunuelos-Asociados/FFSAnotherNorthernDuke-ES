@@ -10,9 +10,7 @@ IMAGENES DE LA TRADUCCION:
 <img width="1535" height="788" alt="image" src="https://github.com/user-attachments/assets/da83cc7a-9612-4e36-8e9a-ad08511152ee" />
 <img width="1532" height="815" alt="image" src="https://github.com/user-attachments/assets/a5fe99eb-6224-4dcb-b10a-0eb91a1f267f" />
 
-
-
-DESCARGA EL ARCHIVO .ZIP AQUI:
+DESCARGA EL ARCHIVO .ZIP ARRIBA
 
 ## INSTRUCCIONES DE INSTALACION:
 
